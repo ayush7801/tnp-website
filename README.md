@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+<h1 align="center">Training & Placement Cell IIIT Bhopal</h1>
+
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=t&pcelliiitbhopsl&color=blueviolet&style=flat">
+</p>
+
+* The official Website of T&P CELL IIIT Bhopal : [click here](https://iiitbhopal.ac.in/#!/M0005/SM0032/)
+
+
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +78,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ -->
