@@ -3,7 +3,7 @@
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=t&pcelliiitbhopsl&color=blueviolet&style=flat">
 </p>
-- The official Website of T&P CELL IIIT Bhopal :[click here](https://iiitbhopal.ac.in/#!/M0005/SM0032/)
+* The official Website of T&P CELL IIIT Bhopal : [click here](https://iiitbhopal.ac.in/#!/M0005/SM0032/)
 
 
 
