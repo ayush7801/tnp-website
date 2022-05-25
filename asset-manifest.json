@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tnp-website/static/css/main.f61b378e.css",
-    "main.js": "/tnp-website/static/js/main.11feeddd.js",
+    "main.css": "/tnp-website/static/css/main.c2298133.css",
+    "main.js": "/tnp-website/static/js/main.c4b9e339.js",
     "static/media/image-4.png": "/tnp-website/static/media/image-4.e9a0b7a355e4a3d0cd18.png",
     "static/media/image-1.jpg": "/tnp-website/static/media/image-1.3261e91c47de7491b551.jpg",
     "static/media/image-3.jpg": "/tnp-website/static/media/image-3.ed3ea12b62e93cb3041c.jpg",
     "index.html": "/tnp-website/index.html",
-    "main.f61b378e.css.map": "/tnp-website/static/css/main.f61b378e.css.map",
-    "main.11feeddd.js.map": "/tnp-website/static/js/main.11feeddd.js.map"
+    "main.c2298133.css.map": "/tnp-website/static/css/main.c2298133.css.map",
+    "main.c4b9e339.js.map": "/tnp-website/static/js/main.c4b9e339.js.map"
   },
   "entrypoints": [
-    "static/css/main.f61b378e.css",
-    "static/js/main.11feeddd.js"
+    "static/css/main.c2298133.css",
+    "static/js/main.c4b9e339.js"
   ]
 }
